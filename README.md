@@ -1,11 +1,14 @@
 # Pivot-Project
 
-### Sales Data Analysis with Excel Pivot Tables & Dashboards
+### Project Title: Sales Data Analysis with Excel Pivot Tables & Dashboards
+---
 
-### Overview
+###  Project Overview
+---
 This repository showcases Sales Data Analysis performed using Excel Pivot Tables and Dashboards. The project provides key business insights, including revenue distribution, unsold units, and top/bottom-performing stores.
 
 ### Key Features
+---
 1. Pivot Table Analysis
 - Revenue by Region - Aggregated revenue across different regions.
 - Unsold Units by Region - Identifies where inventory is not selling.
@@ -20,11 +23,13 @@ This repository showcases Sales Data Analysis performed using Excel Pivot Tables
   - Dynamic Visualizations for better data-driven decisions.
 
  ### Insights Derived
+ ---
  - West Region generated the highest revenue.
  - Some stores struggle with unsold inventory, requiring strategic interventions.
  - Suburban and Rural markets perform strongly, while Urban areas need further review.
 
-### Tools Used   
+### Tools Used
+---
 - ✅ Microsoft Excel - Data cleaning, pivot tables, and dashboard creation.
 - ✅ Pivot Tables - Summarizing large datasets.
 - ✅ Charts & Graphs - Visualizing insights effectively.
